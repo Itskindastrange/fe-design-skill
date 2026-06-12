@@ -24,6 +24,7 @@ When bans collide, the strictest ban wins. Resolved decisions live in [CONFLICTS
 | Landing page, marketing site, portfolio, campaign, brand surface (design IS the product) | [reference/landing.md](reference/landing.md) |
 | Dashboard, product UI, app shell, admin, settings, tool (design SERVES the product) | [reference/product.md](reference/product.md) |
 | Existing site/app to upgrade or restyle | [reference/redesign.md](reference/redesign.md) first, then the matching register above |
+| Analyze / audit / critique / "what's wrong" / "give me recommendations" / "roast this" / "how can I improve" — no code wanted | [reference/critique.md](reference/critique.md) only — no code written |
 
 3. If the task involves ANY animation, transition, or interaction work (it almost always does), also load [reference/motion.md](reference/motion.md). Motion rules there override anything else.
 4. Before declaring any page done, run [reference/preflight.md](reference/preflight.md). Not optional.
