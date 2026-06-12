@@ -13,41 +13,17 @@ An anti-slop frontend design skill for Claude Code. Produces interfaces that do 
 
 ## Install
 
-### Step 1 — Install the `superpowers` dependency
-
-This skill requires [obra/superpowers](https://github.com/obra/superpowers). Install it first inside Claude Code.
-
-Register the marketplace:
-
-```
-/plugin marketplace add obra/superpowers-marketplace
-```
-
-Install the plugin:
-
-```
-/plugin install superpowers@superpowers-marketplace
-```
-
-Reload plugins:
-
-```
-/reload-plugins
-```
-
-### Step 2 — Install fe-design
-
 ```bash
 npx skills add github:itskindastrange/fe-design-skill
 ```
 
-Reload plugins:
+Reload plugins inside Claude Code:
 
 ```
 /reload-plugins
 ```
 
-### Step 3 — Verify
+### Verify
 
 Start a new chat and ask Claude to build a landing page or dashboard. The skill should trigger automatically. You can also invoke it explicitly:
 
