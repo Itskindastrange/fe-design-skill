@@ -38,7 +38,7 @@ Reload plugins:
 ### Step 2 — Install fe-design
 
 ```bash
-npx skills add github:abdullahahmaddd/fe-design-skill
+npx skills add github:itskindastrange/fe-design-skill
 ```
 
 Reload plugins:
